@@ -49,6 +49,7 @@ const questionBank = [
     'If you had the option to change your name, what would you change it to?',
     'What smell brings back great memories for you?',
     'What is your plan in case of a zombie apocalypse?',
+    'What is a place most people won\'t want to visit, but you would want to?',
 ];
 
 const randomlySelectQuestion = (questions) => {
